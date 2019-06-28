@@ -1,0 +1,2 @@
+# force_vt_result
+本機能は、15秒１回、1分間4回しか使用できないVirusTotalのPubricAPIを無理やり1秒1回で使おうという力技スクリプトです。
